@@ -1,0 +1,2 @@
+# gopipe
+Pipeline creator lib
